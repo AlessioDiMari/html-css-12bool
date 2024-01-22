@@ -14,11 +14,22 @@
 ******************************/
 
 .blu{
-    background-color: blue;
+    background-color: #006CFA;
+    border: 1px solid white;
+    color: white;
+    padding: 24px;
 }
 
 .verde{
-    background-color: green;
+    background-color: #00E165;
+    color: white;
+    border: 1px solid #006CFA;
+    padding: 24px;
+}
+
+.my-reset{
+    padding: 0;
+    border: 0;
 }
 
 
